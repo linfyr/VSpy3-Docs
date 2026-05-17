@@ -13,6 +13,7 @@
   * [Other Vehicle Spy Users](vehicle-spy-introduction/other-vehicle-spy-users.md)
   * [Vehicle Spy Specifications](vehicle-spy-introduction/vehicle-spy-specifications.md)
   * [Vehicle Spy Required Hardware PC System Requirements](vehicle-spy-introduction/vehicle-spy-required-hardware-pc-system-requirements.md)
+  * [Vehicle Spy 3 架构解析与同类工具开发建议](vehicle-spy-introduction/vehicle-spy-3-architecture-and-development-plan.md)
   * [Vehicle Spy Website](vehicle-spy-introduction/vehicle-spy-website.md)
 * [Vehicle Spy Tutorials](vehicle-spy-tutorials/README.md)
   * [Vehicle Spy Tutorial Files](vehicle-spy-tutorials/vehicle-spy-tutorial-files.md)
